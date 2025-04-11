@@ -20,5 +20,7 @@ Here are some ideas to get you started:
 -->
   ![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=adelmerad&show_icons=true&theme=radical)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=adelmerad&layout=compact)
+![GitHub Streak](https://streak-stats.demolab.com/?user=adelmerad&theme=radical)
+
 
 
