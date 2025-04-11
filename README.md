@@ -31,11 +31,14 @@ Always curious, always building — one project at a time. 🚀
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40" alt="Linux"/>
 </p>
 
-📈 GitHub Stats
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=adelmerad&show_icons=true&theme=radical)
-![Your Contributions](https://github.com/adelmerad/adelmerad/blob/main/assets/github-contributions.svg)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=adelmerad&layout=compact)
-![GitHub Streak](https://streak-stats.demolab.com/?user=adelmerad&theme=radical)
+
+
+## 📈 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=adelmerad&show_icons=true&theme=radical" width="350">
+  <img src="https://streak-stats.demolab.com/?user=adelmerad&theme=radical" width="350">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=adelmerad&layout=compact" width="350">
+</p>
 
 
 
