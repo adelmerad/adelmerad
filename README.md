@@ -1,6 +1,10 @@
 ## Hi there 👋
 
-<!--
+ 🧰 Languages and Tools
+![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
+![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
+...
+
 **adelmerad/adelmerad** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
