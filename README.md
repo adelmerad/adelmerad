@@ -40,11 +40,13 @@ Always curious, always building — one project at a time. 🚀
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=adelmerad&layout=compact" width="350">
 </p>
 
-## 📬 Contact information 
 
-📧 Email: adelmerad94@gmail.com 
-💼 LinkedIn: https://www.linkedin.com/in/adel-merad-57b5a4301/
-🌐 Portfolio: https://bento.me/adel-merad
+## 📬 Contact Information
+
+- 📧 **Email:** [adelmerad94@gmail.com](mailto:adelmerad94@gmail.com)  
+- 💼 **LinkedIn:** [Adel Merad](https://www.linkedin.com/in/adel-merad-57b5a4301/)  
+- 🌐 **Portfolio:** [bento.me/adel-merad](https://bento.me/adel-merad)
+
 
 
 "Code is like humor. When you have to explain it, it’s bad."
