@@ -1,5 +1,16 @@
 ## Hi there 👋
 
+I’m Adel Merad, a full-stack developer with a passion for turning ideas into clean, working code. ☕💻
+
+🔧 Full-Stack Developer | 💡 Problem Solver | 🔍 Forever Learner
+🔥 From building interactive UIs with React to exploring AI, Machine Learning, and Security, I enjoy every layer of tech.
+
+🧠 Currently leveling up in Laravel and React, while working on small projects to sharpen my knowledge.
+
+🌍 Outside of coding, I’m an athlete who loves hitting the gym, traveling, hiking, playing basketball and billiards, and getting into some fun racing with my car.
+
+Always curious, always building — one project at a time. 🚀
+
 ## 🧰 Languages and Tools
 
 <p align="left">
@@ -21,12 +32,8 @@
 </p>
 
 📈 GitHub Stats
-
-
-
-
-
-  ![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=adelmerad&show_icons=true&theme=radical)
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=adelmerad&show_icons=true&theme=radical)
+![Your Contributions](https://github.com/adelmerad/adelmerad/blob/main/assets/github-contributions.svg)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=adelmerad&layout=compact)
 ![GitHub Streak](https://streak-stats.demolab.com/?user=adelmerad&theme=radical)
 
