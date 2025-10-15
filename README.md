@@ -7,7 +7,7 @@ I’m Adel Merad, a full-stack developer with a passion for turning ideas into c
 
 🧠 Currently leveling up in Laravel and React, while working on small projects to sharpen my knowledge.
 
-🌍 Outside of coding, I’m an athlete who loves hitting the gym, traveling, hiking, playing basketball and billiards, and getting into some fun racing with cars.
+🌍 Outside of coding, I’m an athlete who loves hitting the gym, traveling, hiking, playing basketball and billiards, and getting into some fun with cars and bikes.
 
 Always curious, always building — one project at a time. 🚀
 
