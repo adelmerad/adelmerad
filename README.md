@@ -36,7 +36,7 @@ Always curious, always building — one project at a time. 🚀
 ## 📈 GitHub Stats
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=adelmerad&show_icons=true&theme=radical" width="350">
-  <img src="https://streak-stats.demolab.com/?user=adelmerad&theme=radical" width="350">
+  <img src="https://streak-stats.demolab.com/?user=adelmerad&theme=radical&cb=20260729" width="350">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=adelmerad&layout=compact" width="350">
 </p>
 
