@@ -1,55 +1,68 @@
 ## Hi there 👋
 
-I’m Adel Merad, a full-stack developer with a passion for turning ideas into clean, working code. ☕💻
+I'm **Adel Merad**, a full-stack developer and Software Engineering Master's student at **USTHB** (Algiers). I like building things end to end — from the database and the API to the interface people actually use. ☕💻
 
-🔧 Full-Stack Developer | 💡 Problem Solver | 🔍 Forever Learner
-🔥 From building interactive UIs with React to exploring AI, Machine Learning, and Security, I enjoy every layer of tech.
+- 🔧 Currently building with **ASP.NET Core**, **Next.js** and **NestJS**
+- 🔐 Recently worked on **OAuth2 / OpenID Connect** and SSO during my internship at **Mobilis**
+- 🤖 Exploring **AI applications**: RAG, LLM agents and tool calling
+- 🏆 Hackathon regular: NCS Hackathon, Micro Hack, PEXILIS, Startup Weekend Algiers
+- 🧑‍💻 Member of **Micro Club** (Developer Department & IT Section)
 
-🧠 Currently leveling up in Laravel and React, while working on small projects to sharpen my knowledge.
+🌍 Outside of coding, I'm an athlete who loves hitting the gym, traveling, hiking, playing basketball and billiards, and getting into some fun with cars and bikes.
 
-🌍 Outside of coding, I’m an athlete who loves hitting the gym, traveling, hiking, playing basketball and billiards, and getting into some fun with cars and bikes.
+## 🚀 Featured Projects
 
-Always curious, always building — one project at a time. 🚀
+| Project | What it is | Stack |
+|---------|------------|-------|
+| [**ShopAuth**](https://github.com/adelmerad/ShopAuth) | OAuth2 / OpenID Connect server — PKCE, roles, account lockout, refresh token rotation | ASP.NET Core, OpenIddict |
+| [**ShopApi**](https://github.com/adelmerad/ShopApi) | E-commerce REST API — internship project @ Mobilis | ASP.NET Core 8, EF Core, Identity |
+| [**HOKOKI**](https://github.com/Hokoki-DZ) | AI legal platform for Algeria (NCS Hackathon). I worked across the full stack: React frontend, NestJS backend and the RAG AI service | React, NestJS, LangChain, ChromaDB |
+| [**gestion-de-presence**](https://github.com/adelmerad/gestion-de-presence) | Attendance & payroll app in production for a medical imaging center — [live](https://gestion-de-presence-sooty.vercel.app) | Next.js, Redis, Vercel |
+| [**compilateur-minialgo**](https://github.com/adelmerad/compilateur-minialgo) | Compiler for the MiniAlgo language — quadruples, 5 optimization passes, 8086 assembly backend | C, Flex, Bison |
+| [**mpeg4-encoder-pipeline**](https://github.com/adelmerad/mpeg4-encoder-pipeline) | MPEG-4-style video encoder/decoder — DCT I-frames, motion-compensated P-frames | Python |
 
 ## 🧰 Languages and Tools
 
 <p align="left">
-  <!-- Programming Languages -->
+  <!-- Languages -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="40" alt="TypeScript"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" alt="JavaScript"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" alt="React"/>
-  <img src="https://cdn.simpleicons.org/laravel/FF2D20" width="40" alt="Laravel" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="40" alt="C#"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="40" alt="PHP"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" alt="HTML5"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" alt="CSS3"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="40" alt="C"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" alt="Python"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" alt="Java"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="40" alt="C"/>
 
-  <!-- Database & OS -->
+  <!-- Frameworks -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" alt="React"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="40" alt="Next.js"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-original.svg" width="40" alt="NestJS"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" width="40" alt=".NET Core"/>
+  <img src="https://cdn.simpleicons.org/laravel/FF2D20" width="40" alt="Laravel"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" width="40" alt="Tailwind CSS"/>
+
+  <!-- Databases & Tools -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="40" alt="PostgreSQL"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" alt="MySQL"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" width="40" alt="SQLite"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="40" alt="MongoDB"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" width="40" alt="Redis"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="40" alt="Docker"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" alt="Git"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40" alt="Linux"/>
 </p>
 
-
-
 ## 📈 GitHub Stats
+
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=adelmerad&show_icons=true&theme=radical" width="350">
   <img src="https://streak-stats.demolab.com/?user=adelmerad&theme=radical&cb=20260729" width="350">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=adelmerad&layout=compact" width="350">
 </p>
 
+## 📬 Contact
 
-## 📬 Contact Information
-
-- 📧 **Email:** [adelmerad94@gmail.com](mailto:adelmerad94@gmail.com)  
-- 💼 **LinkedIn:** [Adel Merad](https://www.linkedin.com/in/adel-merad-57b5a4301/)  
+- 📧 **Email:** [adelmerad94@gmail.com](mailto:adelmerad94@gmail.com)
+- 💼 **LinkedIn:** [Adel Merad](https://www.linkedin.com/in/adel-merad-57b5a4301/)
 - 🌐 **Portfolio:** [bento.me/adel-merad](https://bento.me/adel-merad)
 
-
-
-"Code is like humor. When you have to explain it, it’s bad."
-
-
-
+> "Code is like humor. When you have to explain it, it's bad."
