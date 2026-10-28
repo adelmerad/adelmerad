@@ -5,7 +5,8 @@ I'm **Adel Merad**, a full-stack developer and Software Engineering Master's stu
 - 🔧 Currently building with **ASP.NET Core**, **Next.js** and **NestJS**
 - 🔐 Recently worked on **OAuth2 / OpenID Connect** and SSO during my internship at **Mobilis**
 - 🤖 Exploring **AI applications**: RAG, LLM agents and tool calling
-- 🏆 Hackathon regular: NCS Hackathon, Micro Hack, PEXILIS, Startup Weekend Algiers
+- 🎓 Bachelor's in Computer Science (USTHB, 2025) — final project: a multi-seller marketplace with a recommendation system
+- 🏆 Hackathon regular: NCS Hackathon, MicroHack, PEXILIS, Startup Weekend Algiers
 - 🧑‍💻 Member of **Micro Club** (Developer Department & IT Section)
 
 🌍 Outside of coding, I'm an athlete who loves hitting the gym, traveling, hiking, playing basketball and billiards, and getting into some fun with cars and bikes.
@@ -14,10 +15,14 @@ I'm **Adel Merad**, a full-stack developer and Software Engineering Master's stu
 
 | Project | What it is | Stack |
 |---------|------------|-------|
-| [**ShopAuth**](https://github.com/adelmerad/ShopAuth) | OAuth2 / OpenID Connect server — PKCE, roles, account lockout, refresh token rotation | ASP.NET Core, OpenIddict |
+| [**ShopO**](https://github.com/adelmerad/multi-seller-marketplace) | Multi-seller marketplace for electronics — seller & admin dashboards, PayPal, hybrid recommender (K-Means + cosine similarity). Bachelor's final project @ USTHB | Laravel, React, MySQL, Flask |
+| [**ShopAuth**](https://github.com/adelmerad/ShopAuth) | OAuth2 / OpenID Connect server — PKCE, roles, account lockout, refresh token rotation. Internship @ Mobilis | ASP.NET Core, OpenIddict |
 | [**ShopApi**](https://github.com/adelmerad/ShopApi) | E-commerce REST API — internship project @ Mobilis | ASP.NET Core 8, EF Core, Identity |
-| [**HOKOKI**](https://github.com/Hokoki-DZ) | AI legal platform for Algeria (NCS Hackathon). I worked across the full stack: React frontend, NestJS backend and the RAG AI service | React, NestJS, LangChain, ChromaDB |
+| [**HOKOKI**](https://github.com/Hokoki-DZ) | AI legal platform for Algeria (NCS Hackathon) — React frontend, NestJS backend and RAG AI service | React, NestJS, LangChain, ChromaDB |
+| [**APCS**](https://github.com/adelmerad/APCS) | AI-powered port terminal management — smart booking, QR gate access, LLM assistant with tool calling (MicroHack) | Laravel, React, FastAPI, Ollama |
+| [**SheCare**](https://github.com/adelmerad/shecare) | Companion app for women battling breast cancer — health tracking, journal, community, consultation booking (Startup Weekend Algiers) | Next.js, PostgreSQL, Prisma, Auth.js |
 | [**gestion-de-presence**](https://github.com/adelmerad/gestion-de-presence) | Attendance & payroll app in production for a medical imaging center — [live](https://gestion-de-presence-sooty.vercel.app) | Next.js, Redis, Vercel |
+| [**Diab**](https://github.com/adelmerad/diab-garden) | Gamified diabetes tracker — healthy streaks grow a personal garden (PEXILIS Hackathon) | Expo, React Native, Zustand |
 | [**compilateur-minialgo**](https://github.com/adelmerad/compilateur-minialgo) | Compiler for the MiniAlgo language — quadruples, 5 optimization passes, 8086 assembly backend | C, Flex, Bison |
 | [**mpeg4-encoder-pipeline**](https://github.com/adelmerad/mpeg4-encoder-pipeline) | MPEG-4-style video encoder/decoder — DCT I-frames, motion-compensated P-frames | Python |
 
@@ -40,6 +45,10 @@ I'm **Adel Merad**, a full-stack developer and Software Engineering Master's stu
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" width="40" alt=".NET Core"/>
   <img src="https://cdn.simpleicons.org/laravel/FF2D20" width="40" alt="Laravel"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" width="40" alt="Tailwind CSS"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/expo/expo-original.svg" width="40" alt="Expo / React Native"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" width="40" alt="Flask"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" width="40" alt="FastAPI"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/prisma/prisma-original.svg" width="40" alt="Prisma"/>
 
   <!-- Databases & Tools -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="40" alt="PostgreSQL"/>
@@ -55,7 +64,7 @@ I'm **Adel Merad**, a full-stack developer and Software Engineering Master's stu
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=adelmerad&show_icons=true&theme=radical" width="350">
-  <img src="https://streak-stats.demolab.com/?user=adelmerad&theme=radical&cb=20261028" width="350">
+  <img src="https://streak-stats.demolab.com/?user=adelmerad&theme=radical&cb=20261029" width="350">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=adelmerad&layout=compact" width="350">
 </p>
 
