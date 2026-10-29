@@ -23,7 +23,7 @@ I'm **Adel Merad**, a full-stack developer and Software Engineering Master's stu
 | [**APCS**](https://github.com/adelmerad/APCS) | AI-powered port terminal management — smart booking, QR gate access, LLM assistant with tool calling (MicroHack) | Laravel, React, FastAPI, Ollama |
 | [**SheCare**](https://github.com/adelmerad/shecare) | Companion app for women battling breast cancer — health tracking, journal, community, consultation booking (Startup Weekend Algiers) | Next.js, PostgreSQL, Prisma, Auth.js |
 | [**gestion-de-presence**](https://github.com/adelmerad/gestion-de-presence) | Attendance & payroll app in production for a medical imaging center — [live](https://gestion-de-presence-sooty.vercel.app) | Next.js, Redis, Vercel |
-| [**Diab**](https://github.com/adelmerad/diab-garden) | Gamified diabetes tracker — healthy streaks grow a personal garden (PEXILIS Hackathon) | Expo, React Native, Zustand |
+| [**Diab**](https://github.com/adelmerad/diab-garden) | Gamified diabetes tracker — healthy streaks grow a personal garden (PEXILIS Hackathon) — [live](https://diab-garden-frontend.vercel.app) | Expo, React Native, Zustand |
 | [**compilateur-minialgo**](https://github.com/adelmerad/compilateur-minialgo) | Compiler for the MiniAlgo language — quadruples, 5 optimization passes, 8086 assembly backend | C, Flex, Bison |
 | [**mpeg4-encoder-pipeline**](https://github.com/adelmerad/mpeg4-encoder-pipeline) | MPEG-4-style video encoder/decoder — DCT I-frames, motion-compensated P-frames | Python |
 
