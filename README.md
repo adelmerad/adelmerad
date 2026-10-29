@@ -27,6 +27,8 @@ I'm **Adel Merad**, a full-stack developer and Software Engineering Master's stu
 | [**compilateur-minialgo**](https://github.com/adelmerad/compilateur-minialgo) | Compiler for the MiniAlgo language — quadruples, 5 optimization passes, 8086 assembly backend | C, Flex, Bison |
 | [**mpeg4-encoder-pipeline**](https://github.com/adelmerad/mpeg4-encoder-pipeline) | MPEG-4-style video encoder/decoder — DCT I-frames, motion-compensated P-frames | Python |
 
+> 🌐 **Live demos** are linked in the table. HOKOKI and Diab use simulated sign-in — any details work, see each README for a ready-to-use demo account.
+
 ## 🧰 Languages and Tools
 
 <p align="left">
