@@ -66,9 +66,9 @@ I'm **Adel Merad**, a full-stack developer and Software Engineering Master's stu
 ## 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=adelmerad&show_icons=true&theme=radical&cb=202610292116" width="350">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=adelmerad&theme=radical" width="350" alt="GitHub stats">
   <img src="https://streak-stats.demolab.com/?user=adelmerad&theme=radical&cb=202610292116" width="350">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=adelmerad&layout=compact&cb=202610292116" width="350">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=adelmerad&theme=radical" width="350" alt="Top languages by commit">
 </p>
 
 ## 📬 Contact
