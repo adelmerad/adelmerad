@@ -16,25 +16,31 @@ I'm **Adel Merad**, a full-stack developer and Software Engineering Master's stu
 
 | Project | What it is | Stack |
 |---------|------------|-------|
+| [**gestion-de-presence**](https://github.com/adelmerad/gestion-de-presence) | Attendance & payroll app in production for a medical imaging center — [live](https://gestion-de-presence-sooty.vercel.app) | Next.js, Redis, Vercel |
+| [**CIM Dr MERAD**](https://github.com/adelmerad/CIM-Dr-MERAD) | Bilingual French/Arabic website in production for a medical imaging center, with appointment requests through WhatsApp — [live](https://cimdrmerad.com) | HTML, CSS, JavaScript |
+| [**HOKOKI**](https://github.com/adelmerad/HOKOKI) | AI legal assistant for Algeria (NCS Hackathon) — legal chat, contract analysis, procedures and lawyer marketplace — [live](https://hokoki.vercel.app) | React, TypeScript, NestJS, LangChain |
 | [**ShopO**](https://github.com/adelmerad/multi-seller-marketplace) | Multi-seller marketplace for electronics — seller & admin dashboards, PayPal, hybrid recommender (K-Means + cosine similarity). Bachelor's final project @ USTHB | Laravel, React, MySQL, Flask |
 | [**ShopAuth**](https://github.com/adelmerad/ShopAuth) | OAuth2 / OpenID Connect server — PKCE, roles, account lockout, refresh token rotation. Internship @ Mobilis | ASP.NET Core, OpenIddict |
-| [**ShopApi**](https://github.com/adelmerad/ShopApi) | E-commerce REST API — internship project @ Mobilis | ASP.NET Core 8, EF Core, Identity |
-| [**HOKOKI**](https://github.com/adelmerad/HOKOKI) | AI legal assistant for Algeria (NCS Hackathon) — legal chat, contract analysis, procedures and lawyer marketplace — [live](https://hokoki.vercel.app) | React, TypeScript, NestJS, LangChain |
 | [**Realtime Leaderboard**](https://github.com/adelmerad/Realtime-Leaderboard) | Live rankings for any game — REST API with per-game keys, updates pushed with SSE and PostgreSQL LISTEN/NOTIFY — [live](https://realtime-leaderboard-gmdt.onrender.com) | Next.js, PostgreSQL, Prisma |
 | [**APCS**](https://github.com/adelmerad/APCS) | AI-powered port terminal management — smart booking, QR gate access, LLM assistant with tool calling (MicroHack) | Laravel, React, FastAPI, Ollama |
-| [**SheCare**](https://github.com/adelmerad/shecare) | Companion app for women battling breast cancer — health tracking, journal, community, consultation booking (Startup Weekend Algiers) | Next.js, PostgreSQL, Prisma, Auth.js |
-| [**gestion-de-presence**](https://github.com/adelmerad/gestion-de-presence) | Attendance & payroll app in production for a medical imaging center — [live](https://gestion-de-presence-sooty.vercel.app) | Next.js, Redis, Vercel |
 | [**Diab**](https://github.com/adelmerad/diab-garden) | Gamified diabetes tracker — healthy streaks grow a personal garden (PEXILIS Hackathon) — [live](https://diab-garden-frontend.vercel.app) | Expo, React Native, Zustand |
-| [**compilateur-minialgo**](https://github.com/adelmerad/compilateur-minialgo) | Compiler for the MiniAlgo language — quadruples, 5 optimization passes, 8086 assembly backend | C, Flex, Bison |
-| [**mpeg4-encoder-pipeline**](https://github.com/adelmerad/mpeg4-encoder-pipeline) | MPEG-4-style video encoder/decoder — DCT I-frames, motion-compensated P-frames | Python |
-| [**CIM Dr MERAD**](https://github.com/adelmerad/CIM-Dr-MERAD) | Bilingual French/Arabic website in production for a medical imaging center, with appointment requests through WhatsApp — [live](https://cimdrmerad.com) | HTML, CSS, JavaScript |
-| [**Pagination**](https://github.com/adelmerad/Pagination) | Pagination study with a demo: cursor-paginated mission log for Rifters, an AR game concept about Algerian history (team project, frontend) | Django REST, React, React Query |
-| [**Printer Allocation Monitor**](https://github.com/adelmerad/printer-allocation-monitor) | Interactive simulator of a synchronization monitor, with step-by-step animation and starvation detection — [live](https://adelmerad.github.io/printer-allocation-monitor/) | JavaScript, Canvas |
-| [**Threads and Semaphores Visualizer**](https://github.com/adelmerad/thread-animation) | Step-by-step animation of POSIX threads and semaphores, with a beginner's guide — [live](https://adelmerad.github.io/thread-animation/) | JavaScript |
-| [**SMS Spam Detector**](https://github.com/adelmerad/SMS-Spam-Detector) | Spam classifier comparing Logistic Regression and Naive Bayes (98% test accuracy; team project) | Python, scikit-learn, NLTK |
-| [**El-Tarf Land Cover**](https://github.com/adelmerad/el-tarf-land-cover) | Land cover classification from Sentinel-2 imagery, based on my internship at ASAL | Google Earth Engine |
 
 > 🌐 **Live demos** are linked in the table. HOKOKI and Diab use simulated sign-in — any details work, see each README for a ready-to-use demo account.
+
+## 🧠 Computer Science & Data
+
+- [**compilateur-minialgo**](https://github.com/adelmerad/compilateur-minialgo) — Compiler for the MiniAlgo language — quadruples, 5 optimization passes, 8086 assembly backend (C, Flex, Bison)
+- [**mpeg4-encoder-pipeline**](https://github.com/adelmerad/mpeg4-encoder-pipeline) — MPEG-4-style video encoder/decoder — DCT I-frames, motion-compensated P-frames (Python)
+- [**Threads and Semaphores Visualizer**](https://github.com/adelmerad/thread-animation) — Step-by-step animation of POSIX threads and semaphores, with a beginner's guide — [live](https://adelmerad.github.io/thread-animation/) (JavaScript)
+- [**Printer Allocation Monitor**](https://github.com/adelmerad/printer-allocation-monitor) — Interactive simulator of a synchronization monitor, with step-by-step animation and starvation detection — [live](https://adelmerad.github.io/printer-allocation-monitor/) (JavaScript, Canvas)
+- [**El-Tarf Land Cover**](https://github.com/adelmerad/el-tarf-land-cover) — Land cover classification from Sentinel-2 imagery, based on my internship at ASAL (Google Earth Engine)
+
+## 🛠️ Other Projects
+
+- [**SheCare**](https://github.com/adelmerad/shecare) — Companion app for women battling breast cancer — health tracking, journal, community, consultation booking (Startup Weekend Algiers) (Next.js, PostgreSQL, Prisma, Auth.js)
+- [**ShopApi**](https://github.com/adelmerad/ShopApi) — E-commerce REST API — internship project @ Mobilis (ASP.NET Core 8, EF Core, Identity)
+- [**Pagination**](https://github.com/adelmerad/Pagination) — Pagination study with a demo: cursor-paginated mission log for Rifters, an AR game concept about Algerian history (team project, frontend) (Django REST, React, React Query)
+- [**SMS Spam Detector**](https://github.com/adelmerad/SMS-Spam-Detector) — Spam classifier comparing Logistic Regression and Naive Bayes (98% test accuracy; team project) (Python, scikit-learn, NLTK)
 
 ## 🧰 Languages and Tools
 
