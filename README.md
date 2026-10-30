@@ -4,6 +4,7 @@ I'm **Adel Merad**, a full-stack developer and Software Engineering Master's stu
 
 - 🔧 Currently building with **ASP.NET Core**, **Next.js** and **NestJS**
 - 🔐 Recently worked on **OAuth2 / OpenID Connect** and SSO during my internship at **Mobilis**
+- 🛰️ Discovered remote sensing and satellite imagery during an internship at **ASAL** (Algerian Space Agency)
 - 🤖 Exploring **AI applications**: RAG, LLM agents and tool calling
 - 🎓 Bachelor's in Computer Science (USTHB, 2025) — final project: a multi-seller marketplace with a recommendation system
 - 🏆 Hackathon regular: NCS Hackathon, MicroHack, PEXILIS, Startup Weekend Algiers
@@ -26,6 +27,12 @@ I'm **Adel Merad**, a full-stack developer and Software Engineering Master's stu
 | [**Diab**](https://github.com/adelmerad/diab-garden) | Gamified diabetes tracker — healthy streaks grow a personal garden (PEXILIS Hackathon) — [live](https://diab-garden-frontend.vercel.app) | Expo, React Native, Zustand |
 | [**compilateur-minialgo**](https://github.com/adelmerad/compilateur-minialgo) | Compiler for the MiniAlgo language — quadruples, 5 optimization passes, 8086 assembly backend | C, Flex, Bison |
 | [**mpeg4-encoder-pipeline**](https://github.com/adelmerad/mpeg4-encoder-pipeline) | MPEG-4-style video encoder/decoder — DCT I-frames, motion-compensated P-frames | Python |
+| [**CIM Dr MERAD**](https://github.com/adelmerad/CIM-Dr-MERAD) | Bilingual French/Arabic website in production for a medical imaging center, with appointment requests through WhatsApp — [live](https://cimdrmerad.com) | HTML, CSS, JavaScript |
+| [**Pagination**](https://github.com/adelmerad/Pagination) | Pagination study with a demo: cursor-paginated mission log for Rifters, an AR game concept about Algerian history (team project, frontend) | Django REST, React, React Query |
+| [**Printer Allocation Monitor**](https://github.com/adelmerad/printer-allocation-monitor) | Interactive simulator of a synchronization monitor, with step-by-step animation and starvation detection — [live](https://adelmerad.github.io/printer-allocation-monitor/) | JavaScript, Canvas |
+| [**Threads and Semaphores Visualizer**](https://github.com/adelmerad/thread-animation) | Step-by-step animation of POSIX threads and semaphores, with a beginner's guide — [live](https://adelmerad.github.io/thread-animation/) | JavaScript |
+| [**SMS Spam Detector**](https://github.com/adelmerad/SMS-Spam-Detector) | Spam classifier comparing Logistic Regression and Naive Bayes (98% test accuracy; team project) | Python, scikit-learn, NLTK |
+| [**El-Tarf Land Cover**](https://github.com/adelmerad/el-tarf-land-cover) | Land cover classification from Sentinel-2 imagery, based on my internship at ASAL | Google Earth Engine |
 
 > 🌐 **Live demos** are linked in the table. HOKOKI and Diab use simulated sign-in — any details work, see each README for a ready-to-use demo account.
 
