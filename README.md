@@ -88,6 +88,5 @@ I'm **Adel Merad**, a full-stack developer and Software Engineering Master's stu
 
 - 📧 **Email:** [adelmerad94@gmail.com](mailto:adelmerad94@gmail.com)
 - 💼 **LinkedIn:** [Adel Merad](https://www.linkedin.com/in/adel-merad-57b5a4301/)
-- 🌐 **Portfolio:** [bento.me/adel-merad](https://bento.me/adel-merad)
 
 > "Code is like humor. When you have to explain it, it's bad."
