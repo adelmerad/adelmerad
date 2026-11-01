@@ -38,7 +38,7 @@ I'm **Adel Merad**, a full-stack developer and Software Engineering Master's stu
 ## 🛠️ Other Projects
 
 - [**SheCare**](https://github.com/adelmerad/shecare) — Companion app for women battling breast cancer — health tracking, journal, community, consultation booking (Startup Weekend Algiers) (Next.js, PostgreSQL, Prisma, Auth.js)
-- [**ShopApi**](https://github.com/adelmerad/ShopApi) — E-commerce REST API — internship project @ Mobilis (ASP.NET Core 8, EF Core, Identity)
+- [**ShopWebApp**](https://github.com/adelmerad/ShopWebApp) — Backend-for-Frontend client of the ShopAuth SSO: PKCE sign-in, server-side tokens, roles. Team project, internship @ Mobilis (ASP.NET Core, EF Core, SQL Server)
 - [**Pagination**](https://github.com/adelmerad/Pagination) — Pagination study with a demo: cursor-paginated mission log for Rifters, an AR game concept about Algerian history (team project, frontend) (Django REST, React, React Query)
 - [**SMS Spam Detector**](https://github.com/adelmerad/SMS-Spam-Detector) — Spam classifier comparing Logistic Regression and Naive Bayes (98% test accuracy; team project) (Python, scikit-learn, NLTK)
 
