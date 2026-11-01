@@ -20,9 +20,9 @@ I'm **Adel Merad**, a full-stack developer and Software Engineering Master's stu
 | [**CIM Dr MERAD**](https://github.com/adelmerad/CIM-Dr-MERAD) | Bilingual French/Arabic website in production for a medical imaging center, with appointment requests through WhatsApp — [live](https://cimdrmerad.com) | HTML, CSS, JavaScript |
 | [**HOKOKI**](https://github.com/adelmerad/HOKOKI) | AI legal assistant for Algeria (NCS Hackathon) — legal chat, contract analysis, procedures and lawyer marketplace — [live](https://hokoki.vercel.app) | React, TypeScript, NestJS, LangChain |
 | [**ShopO**](https://github.com/adelmerad/multi-seller-marketplace) | Multi-seller marketplace for electronics — seller & admin dashboards, PayPal, hybrid recommender (K-Means + cosine similarity). Bachelor's final project @ USTHB | Laravel, React, MySQL, Flask |
-| [**ShopAuth**](https://github.com/adelmerad/ShopAuth) | OAuth2 / OpenID Connect server — PKCE, roles, account lockout, refresh token rotation. Internship @ Mobilis | ASP.NET Core, OpenIddict |
+| [**ShopAuth**](https://github.com/adelmerad/ShopAuth) | OAuth2 / OpenID Connect SSO platform with an admin panel — PKCE, global and per-application roles, refresh token rotation. Team project, internship @ Mobilis | ASP.NET Core, OpenIddict, React |
 | [**Realtime Leaderboard**](https://github.com/adelmerad/Realtime-Leaderboard) | Live rankings for any game — REST API with per-game keys, updates pushed with SSE and PostgreSQL LISTEN/NOTIFY — [live](https://realtime-leaderboard-gmdt.onrender.com) | Next.js, PostgreSQL, Prisma |
-| [**APCS**](https://github.com/adelmerad/APCS) | AI-powered port terminal management — smart booking, QR gate access, LLM assistant with tool calling (MicroHack) | Laravel, React, FastAPI, Ollama |
+| [**APCS**](https://github.com/adelmerad/APCS) | AI-powered port terminal management — smart booking, QR gate access, LLM assistant with tool calling (MicroHack) | Laravel, React, FastAPI, Google Gemini, Ollama |
 | [**Diab**](https://github.com/adelmerad/diab-garden) | Gamified diabetes tracker — healthy streaks grow a personal garden (PEXILIS Hackathon) — [live](https://diab-garden-frontend.vercel.app) | Expo, React Native, Zustand |
 
 > 🌐 **Live demos** are linked in the table. HOKOKI and Diab use simulated sign-in — any details work, see each README for a ready-to-use demo account.
@@ -37,7 +37,7 @@ I'm **Adel Merad**, a full-stack developer and Software Engineering Master's stu
 
 ## 🛠️ Other Projects
 
-- [**SheCare**](https://github.com/adelmerad/shecare) — Companion app for women battling breast cancer — health tracking, journal, community, consultation booking (Startup Weekend Algiers) (Next.js, PostgreSQL, Prisma, Auth.js)
+- [**SheCare**](https://github.com/adelmerad/shecare) — Companion app for women battling breast cancer — health tracking, journal, community, consultation booking, from Startup Weekend Algiers (Next.js, PostgreSQL, Prisma, Auth.js)
 - [**ShopWebApp**](https://github.com/adelmerad/ShopWebApp) — Backend-for-Frontend client of the ShopAuth SSO: PKCE sign-in, server-side tokens, roles. Team project, internship @ Mobilis (ASP.NET Core, EF Core, SQL Server)
 - [**Pagination**](https://github.com/adelmerad/Pagination) — Pagination study with a demo: cursor-paginated mission log for Rifters, an AR game concept about Algerian history (team project, frontend) (Django REST, React, React Query)
 - [**SMS Spam Detector**](https://github.com/adelmerad/SMS-Spam-Detector) — Spam classifier comparing Logistic Regression and Naive Bayes (98% test accuracy; team project) (Python, scikit-learn, NLTK)
