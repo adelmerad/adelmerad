@@ -2,6 +2,7 @@
 
 I'm **Adel Merad**, a full-stack developer and Software Engineering Master's student at **USTHB** (Algiers). I like building things end to end — from the database and the API to the interface people actually use. ☕💻
 
+- 💼 Managing the digital side of a medical imaging center (**CIM Dr MERAD**): website, internal apps and IT
 - 🔧 Currently building with **ASP.NET Core**, **Next.js** and **NestJS**
 - 🔐 Recently worked on **OAuth2 / OpenID Connect** and SSO during my internship at **Mobilis**
 - 🛰️ Discovered remote sensing and satellite imagery during an internship at **ASAL** (Algerian Space Agency)
@@ -34,6 +35,7 @@ I'm **Adel Merad**, a full-stack developer and Software Engineering Master's stu
 - [**Threads and Semaphores Visualizer**](https://github.com/adelmerad/thread-animation) — Step-by-step animation of POSIX threads and semaphores, with a beginner's guide — [live](https://adelmerad.github.io/thread-animation/) (JavaScript)
 - [**Printer Allocation Monitor**](https://github.com/adelmerad/printer-allocation-monitor) — Interactive simulator of a synchronization monitor, with step-by-step animation and starvation detection — [live](https://adelmerad.github.io/printer-allocation-monitor/) (JavaScript, Canvas)
 - [**El-Tarf Land Cover**](https://github.com/adelmerad/el-tarf-land-cover) — Land cover classification from Sentinel-2 imagery, based on my internship at ASAL (Google Earth Engine)
+- [**Software Project Planning**](https://github.com/adelmerad/software-project-planning) — Full schedule of a software project: WBS, dependencies, resources, critical path and a generated Gantt chart (Microsoft Project)
 
 ## 🛠️ Other Projects
 
