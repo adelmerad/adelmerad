@@ -2,6 +2,8 @@
 
 I'm **Adel Merad**, a full-stack developer and Software Engineering Master's student at **USTHB** (Algiers). I like building things end to end — from the database and the API to the interface people actually use. ☕💻
 
+🌐 **Portfolio:** [adelmerad.github.io](https://adelmerad.github.io) · 📄 **CV:** [English](https://adelmerad.github.io/assets/Adel_Merad_CV_EN.pdf) | [Français](https://adelmerad.github.io/assets/Adel_Merad_CV_FR.pdf)
+
 - 💼 Managing the digital side of a medical imaging center (**CIM Dr MERAD**): website, internal apps and IT
 - 🔧 Currently building with **ASP.NET Core**, **Next.js** and **NestJS**
 - 🔐 Recently worked on **OAuth2 / OpenID Connect** and SSO during my internship at **Mobilis**
@@ -88,6 +90,7 @@ I'm **Adel Merad**, a full-stack developer and Software Engineering Master's stu
 
 ## 📬 Contact
 
+- 🌐 **Portfolio:** [adelmerad.github.io](https://adelmerad.github.io)
 - 📧 **Email:** [adelmerad94@gmail.com](mailto:adelmerad94@gmail.com)
 - 💼 **LinkedIn:** [Adel Merad](https://www.linkedin.com/in/adel-merad-57b5a4301/)
 
