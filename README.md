@@ -2,11 +2,11 @@
 
 I'm **Adel Merad**, a full-stack developer and Software Engineering Master's student at **USTHB** (Algiers). I like building things end to end — from the database and the API to the interface people actually use. ☕💻
 
-🌐 **Portfolio:** [adelmerad.github.io](https://adelmerad.github.io) · 📄 **CV:** [English](https://adelmerad.github.io/assets/Adel_Merad_CV_EN.pdf) | [Français](https://adelmerad.github.io/assets/Adel_Merad_CV_FR.pdf)
+🌐 **Portfolio:** [adelmerad.github.io](https://adelmerad.github.io) (EN · FR · AR) · ✍️ **Blog:** [articles](https://adelmerad.github.io/blog.html) · 📄 **CV:** [English](https://adelmerad.github.io/assets/Adel_Merad_CV_EN.pdf) | [Français](https://adelmerad.github.io/assets/Adel_Merad_CV_FR.pdf)
 
 - 💼 Managing the digital side of a medical imaging center (**CIM Dr MERAD**): website, internal apps and IT
 - 🔧 Currently building with **ASP.NET Core**, **Next.js** and **NestJS**
-- 🔐 Recently worked on **OAuth2 / OpenID Connect** and SSO during my internship at **Mobilis**
+- 🔐 Recently worked on **OAuth2 / OpenID Connect** and SSO during my internship at **Mobilis** ([case study](https://adelmerad.github.io/sso.html))
 - 🛰️ Discovered remote sensing and satellite imagery during an internship at **ASAL** (Algerian Space Agency)
 - 🤖 Exploring **AI applications**: RAG, LLM agents and tool calling
 - 🎓 Bachelor's in Computer Science (USTHB, 2025) — final project: a multi-seller marketplace with a recommendation system
@@ -19,16 +19,22 @@ I'm **Adel Merad**, a full-stack developer and Software Engineering Master's stu
 
 | Project | What it is | Stack |
 |---------|------------|-------|
-| [**gestion-de-presence**](https://github.com/adelmerad/gestion-de-presence) | Attendance & payroll app in production for a medical imaging center — [live](https://gestion-de-presence-sooty.vercel.app) | Next.js, Redis, Vercel |
-| [**CIM Dr MERAD**](https://github.com/adelmerad/CIM-Dr-MERAD) | Bilingual French/Arabic website in production for a medical imaging center, with appointment requests through WhatsApp — [live](https://cimdrmerad.com) | HTML, CSS, JavaScript |
-| [**HOKOKI**](https://github.com/adelmerad/HOKOKI) | AI legal assistant for Algeria (NCS Hackathon) — legal chat, contract analysis, procedures and lawyer marketplace — [live](https://hokoki.vercel.app) | React, TypeScript, NestJS, LangChain |
-| [**ShopO**](https://github.com/adelmerad/multi-seller-marketplace) | Multi-seller marketplace for electronics — seller & admin dashboards, PayPal, hybrid recommender (K-Means + cosine similarity). Bachelor's final project @ USTHB | Laravel, React, MySQL, Flask |
-| [**ShopAuth**](https://github.com/adelmerad/ShopAuth) | OAuth2 / OpenID Connect SSO platform with an admin panel — PKCE, global and per-application roles, refresh token rotation. Team project, internship @ Mobilis | ASP.NET Core, OpenIddict, React |
-| [**Realtime Leaderboard**](https://github.com/adelmerad/Realtime-Leaderboard) | Live rankings for any game — REST API with per-game keys, updates pushed with SSE and PostgreSQL LISTEN/NOTIFY — [live](https://realtime-leaderboard-gmdt.onrender.com) | Next.js, PostgreSQL, Prisma |
+| [**gestion-de-presence**](https://github.com/adelmerad/gestion-de-presence) | Attendance & payroll app in production for a medical imaging center (internal tool) — [case study](https://adelmerad.github.io/presence.html) | Next.js, Redis, Vercel |
+| [**CIM Dr MERAD**](https://github.com/adelmerad/CIM-Dr-MERAD) | Bilingual French/Arabic website in production for a medical imaging center, with appointment requests through WhatsApp — [live](https://cimdrmerad.com) · [case study](https://adelmerad.github.io/cim.html) | HTML, CSS, JavaScript |
+| [**HOKOKI**](https://github.com/adelmerad/HOKOKI) | AI legal assistant for Algeria (NCS Hackathon) — legal chat, contract analysis, procedures and lawyer marketplace — [live](https://hokoki.vercel.app) · [case study](https://adelmerad.github.io/hokoki.html) | React, TypeScript, NestJS, LangChain |
+| [**ShopO**](https://github.com/adelmerad/multi-seller-marketplace) | Multi-seller marketplace for electronics — seller & admin dashboards, PayPal, hybrid recommender (K-Means + cosine similarity). Bachelor's final project @ USTHB — [case study](https://adelmerad.github.io/shopo.html) | Laravel, React, MySQL, Flask |
+| [**ShopAuth**](https://github.com/adelmerad/ShopAuth) | OAuth2 / OpenID Connect SSO platform with an admin panel — PKCE, global and per-application roles, refresh token rotation. Team project, internship @ Mobilis — [case study](https://adelmerad.github.io/sso.html) | ASP.NET Core, OpenIddict, React |
+| [**Realtime Leaderboard**](https://github.com/adelmerad/Realtime-Leaderboard) | Live rankings for any game — REST API with per-game keys, updates pushed with SSE and PostgreSQL LISTEN/NOTIFY — [live](https://realtime-leaderboard-gmdt.onrender.com) · [case study](https://adelmerad.github.io/leaderboard.html) | Next.js, PostgreSQL, Prisma |
 | [**APCS**](https://github.com/adelmerad/APCS) | AI-powered port terminal management — smart booking, QR gate access, LLM assistant with tool calling (MicroHack) | Laravel, React, FastAPI, Google Gemini, Ollama |
 | [**Diab**](https://github.com/adelmerad/diab-garden) | Gamified diabetes tracker — healthy streaks grow a personal garden (PEXILIS Hackathon) — [live](https://diab-garden-frontend.vercel.app) | Expo, React Native, Zustand |
 
-> 🌐 **Live demos** are linked in the table. HOKOKI and Diab use simulated sign-in — any details work, see each README for a ready-to-use demo account.
+> 🌐 **Live demos** and **case studies** are linked in the table. HOKOKI and Diab use simulated sign-in — any details work, see each README for a ready-to-use demo account.
+
+## ✍️ Latest Articles
+
+- [**A single sign-on where the browser never sees a token**](https://adelmerad.github.io/blog-sso-bff.html) — PKCE, the Backend-for-Frontend pattern and the race condition hidden in refresh token rotation
+- [**Realtime without WebSockets: PostgreSQL LISTEN/NOTIFY and Server-Sent Events**](https://adelmerad.github.io/blog-realtime.html) — live rankings synced across servers with nothing but the database
+- [**I replaced a paper attendance book with a web app**](https://adelmerad.github.io/blog-presence.html) — what a small tool for one real user taught me about data models and shipping
 
 ## 🧠 Computer Science & Data
 
