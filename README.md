@@ -32,6 +32,7 @@ I'm **Adel Merad**, a full-stack developer and Software Engineering Master's stu
 
 ## ✍️ Latest Articles
 
+- [**Inside a video encoder: DCT, motion vectors and a one-word bug**](https://adelmerad.github.io/blog-video-encoder.html) — a simplified MPEG-4 pipeline, and how floor vs round cost half the compression
 - [**A garden that grows with your health, and the date bugs hiding in it**](https://adelmerad.github.io/blog-diab.html) — offline-first React Native with Zustand, Expo on the web, and five bugs about what "today" means
 - [**Recommending products three ways, and the bugs I found a year later**](https://adelmerad.github.io/blog-recommender.html) — popularity, cosine similarity and K-Means in a Flask service, and an honest review of my own code
 - [**A website for a medical imaging center: what local SEO really takes**](https://adelmerad.github.io/blog-cim-seo.html) — French and Arabic pages, schema.org structured data, WhatsApp appointments with no backend and lead tracking
