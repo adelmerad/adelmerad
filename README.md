@@ -32,6 +32,7 @@ I'm **Adel Merad**, a full-stack developer and Software Engineering Master's stu
 
 ## ✍️ Latest Articles
 
+- [**A RAG over Algerian law: split by article, not by size**](https://adelmerad.github.io/blog-hokoki-rag.html) — the AI behind HOKOKI: one document per law article, cited answers, and contract reports validated by a schema
 - [**A single sign-on where the browser never sees a token**](https://adelmerad.github.io/blog-sso-bff.html) — PKCE, the Backend-for-Frontend pattern and the race condition hidden in refresh token rotation
 - [**Realtime without WebSockets: PostgreSQL LISTEN/NOTIFY and Server-Sent Events**](https://adelmerad.github.io/blog-realtime.html) — live rankings synced across servers with nothing but the database
 - [**I replaced a paper attendance book with a web app**](https://adelmerad.github.io/blog-presence.html) — what a small tool for one real user taught me about data models and shipping
