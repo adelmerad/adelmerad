@@ -32,6 +32,7 @@ I'm **Adel Merad**, a full-stack developer and Software Engineering Master's stu
 
 ## ✍️ Latest Articles
 
+- [**From source code to 8086 assembly: writing a compiler in C**](https://adelmerad.github.io/blog-compiler.html) — one program through every phase of the MiniAlgo compiler: Flex, Bison, backpatching and five optimization passes
 - [**A RAG over Algerian law: split by article, not by size**](https://adelmerad.github.io/blog-hokoki-rag.html) — the AI behind HOKOKI: one document per law article, cited answers, and contract reports validated by a schema
 - [**A single sign-on where the browser never sees a token**](https://adelmerad.github.io/blog-sso-bff.html) — PKCE, the Backend-for-Frontend pattern and the race condition hidden in refresh token rotation
 - [**Realtime without WebSockets: PostgreSQL LISTEN/NOTIFY and Server-Sent Events**](https://adelmerad.github.io/blog-realtime.html) — live rankings synced across servers with nothing but the database
