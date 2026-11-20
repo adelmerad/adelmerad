@@ -32,6 +32,7 @@ I'm **Adel Merad**, a full-stack developer and Software Engineering Master's stu
 
 ## ✍️ Latest Articles
 
+- [**Recommending products three ways, and the bugs I found a year later**](https://adelmerad.github.io/blog-recommender.html) — popularity, cosine similarity and K-Means in a Flask service, and an honest review of my own code
 - [**A website for a medical imaging center: what local SEO really takes**](https://adelmerad.github.io/blog-cim-seo.html) — French and Arabic pages, schema.org structured data, WhatsApp appointments with no backend and lead tracking
 - [**From source code to 8086 assembly: writing a compiler in C**](https://adelmerad.github.io/blog-compiler.html) — one program through every phase of the MiniAlgo compiler: Flex, Bison, backpatching and five optimization passes
 - [**A RAG over Algerian law: split by article, not by size**](https://adelmerad.github.io/blog-hokoki-rag.html) — the AI behind HOKOKI: one document per law article, cited answers, and contract reports validated by a schema
