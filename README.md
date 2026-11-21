@@ -32,6 +32,7 @@ I'm **Adel Merad**, a full-stack developer and Software Engineering Master's stu
 
 ## ✍️ Latest Articles
 
+- [**Who chooses the user_id? Giving tools to an AI assistant safely**](https://adelmerad.github.io/blog-ai-tools.html) — tool calling with Gemini in a hackathon port system, prompt injection, and why identity must come from the session
 - [**Inside a video encoder: DCT, motion vectors and a one-word bug**](https://adelmerad.github.io/blog-video-encoder.html) — a simplified MPEG-4 pipeline, and how floor vs round cost half the compression
 - [**A garden that grows with your health, and the date bugs hiding in it**](https://adelmerad.github.io/blog-diab.html) — offline-first React Native with Zustand, Expo on the web, and five bugs about what "today" means
 - [**Recommending products three ways, and the bugs I found a year later**](https://adelmerad.github.io/blog-recommender.html) — popularity, cosine similarity and K-Means in a Flask service, and an honest review of my own code
