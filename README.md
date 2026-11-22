@@ -32,6 +32,7 @@ I'm **Adel Merad**, a full-stack developer and Software Engineering Master's stu
 
 ## ✍️ Latest Articles
 
+- [**When "she has an account" is health data**](https://adelmerad.github.io/blog-shecare-privacy.html) — privacy in a breast cancer companion app: login timing, sessions that outlive a password change, and a data export that contained other people
 - [**Who chooses the user_id? Giving tools to an AI assistant safely**](https://adelmerad.github.io/blog-ai-tools.html) — tool calling with Gemini in a hackathon port system, prompt injection, and why identity must come from the session
 - [**Inside a video encoder: DCT, motion vectors and a one-word bug**](https://adelmerad.github.io/blog-video-encoder.html) — a simplified MPEG-4 pipeline, and how floor vs round cost half the compression
 - [**A garden that grows with your health, and the date bugs hiding in it**](https://adelmerad.github.io/blog-diab.html) — offline-first React Native with Zustand, Expo on the web, and five bugs about what "today" means
