@@ -25,8 +25,8 @@ I'm **Adel Merad**, a full-stack developer and Software Engineering Master's stu
 | [**ShopO**](https://github.com/adelmerad/multi-seller-marketplace) | Multi-seller marketplace for electronics — seller & admin dashboards, PayPal, hybrid recommender (K-Means + cosine similarity). Bachelor's final project @ USTHB — [case study](https://adelmerad.github.io/shopo.html) | Laravel, React, MySQL, Flask |
 | [**ShopAuth**](https://github.com/adelmerad/ShopAuth) | OAuth2 / OpenID Connect SSO platform with an admin panel — PKCE, global and per-application roles, refresh token rotation. Team project, internship @ Mobilis — [case study](https://adelmerad.github.io/sso.html) | ASP.NET Core, OpenIddict, React |
 | [**Realtime Leaderboard**](https://github.com/adelmerad/Realtime-Leaderboard) | Live rankings for any game — REST API with per-game keys, updates pushed with SSE and PostgreSQL LISTEN/NOTIFY — [live](https://realtime-leaderboard-gmdt.onrender.com) · [case study](https://adelmerad.github.io/leaderboard.html) | Next.js, PostgreSQL, Prisma |
-| [**APCS**](https://github.com/adelmerad/APCS) | AI-powered port terminal management — smart booking, QR gate access, LLM assistant with tool calling (MicroHack) | Laravel, React, FastAPI, Google Gemini, Ollama |
-| [**Diab**](https://github.com/adelmerad/diab-garden) | Gamified diabetes tracker — healthy streaks grow a personal garden (PEXILIS Hackathon) — [live](https://diab-garden-frontend.vercel.app) | Expo, React Native, Zustand |
+| [**APCS**](https://github.com/adelmerad/APCS) | AI-powered port terminal management — smart booking, QR gate access, LLM assistant with tool calling (MicroHack) — [article](https://adelmerad.github.io/blog-ai-tools.html) | Laravel, React, FastAPI, Google Gemini, Ollama |
+| [**Diab**](https://github.com/adelmerad/diab-garden) | Gamified diabetes tracker — healthy streaks grow a personal garden (PEXILIS Hackathon) — [live](https://diab-garden-frontend.vercel.app) · [article](https://adelmerad.github.io/blog-diab.html) | Expo, React Native, Zustand |
 
 > 🌐 **Live demos** and **case studies** are linked in the table. HOKOKI and Diab use simulated sign-in — any details work, see each README for a ready-to-use demo account.
 
@@ -37,26 +37,21 @@ I'm **Adel Merad**, a full-stack developer and Software Engineering Master's stu
 - [**Who chooses the user_id? Giving tools to an AI assistant safely**](https://adelmerad.github.io/blog-ai-tools.html) — tool calling with Gemini in a hackathon port system, prompt injection, and why identity must come from the session
 - [**Inside a video encoder: DCT, motion vectors and a one-word bug**](https://adelmerad.github.io/blog-video-encoder.html) — a simplified MPEG-4 pipeline, and how floor vs round cost half the compression
 - [**A garden that grows with your health, and the date bugs hiding in it**](https://adelmerad.github.io/blog-diab.html) — offline-first React Native with Zustand, Expo on the web, and five bugs about what "today" means
-- [**Recommending products three ways, and the bugs I found a year later**](https://adelmerad.github.io/blog-recommender.html) — popularity, cosine similarity and K-Means in a Flask service, and an honest review of my own code
-- [**A website for a medical imaging center: what local SEO really takes**](https://adelmerad.github.io/blog-cim-seo.html) — French and Arabic pages, schema.org structured data, WhatsApp appointments with no backend and lead tracking
-- [**From source code to 8086 assembly: writing a compiler in C**](https://adelmerad.github.io/blog-compiler.html) — one program through every phase of the MiniAlgo compiler: Flex, Bison, backpatching and five optimization passes
-- [**A RAG over Algerian law: split by article, not by size**](https://adelmerad.github.io/blog-hokoki-rag.html) — the AI behind HOKOKI: one document per law article, cited answers, and contract reports validated by a schema
-- [**A single sign-on where the browser never sees a token**](https://adelmerad.github.io/blog-sso-bff.html) — PKCE, the Backend-for-Frontend pattern and the race condition hidden in refresh token rotation
-- [**Realtime without WebSockets: PostgreSQL LISTEN/NOTIFY and Server-Sent Events**](https://adelmerad.github.io/blog-realtime.html) — live rankings synced across servers with nothing but the database
-- [**I replaced a paper attendance book with a web app**](https://adelmerad.github.io/blog-presence.html) — what a small tool for one real user taught me about data models and shipping
+
+➡️ **[All 12 articles on my blog](https://adelmerad.github.io/blog.html)**
 
 ## 🧠 Computer Science & Data
 
-- [**compilateur-minialgo**](https://github.com/adelmerad/compilateur-minialgo) — Compiler for the MiniAlgo language — quadruples, 5 optimization passes, 8086 assembly backend (C, Flex, Bison)
-- [**mpeg4-encoder-pipeline**](https://github.com/adelmerad/mpeg4-encoder-pipeline) — MPEG-4-style video encoder/decoder — DCT I-frames, motion-compensated P-frames (Python)
-- [**Threads and Semaphores Visualizer**](https://github.com/adelmerad/thread-animation) — Step-by-step animation of POSIX threads and semaphores, with a beginner's guide — [live](https://adelmerad.github.io/thread-animation/) (JavaScript)
+- [**compilateur-minialgo**](https://github.com/adelmerad/compilateur-minialgo) — Compiler for the MiniAlgo language — quadruples, 5 optimization passes, 8086 assembly backend — [article](https://adelmerad.github.io/blog-compiler.html) (C, Flex, Bison)
+- [**mpeg4-encoder-pipeline**](https://github.com/adelmerad/mpeg4-encoder-pipeline) — MPEG-4-style video encoder/decoder — DCT I-frames, motion-compensated P-frames — [article](https://adelmerad.github.io/blog-video-encoder.html) (Python)
+- [**Threads and Semaphores Visualizer**](https://github.com/adelmerad/thread-animation) — Step-by-step animation of POSIX threads and semaphores, with a beginner's guide — [live](https://adelmerad.github.io/thread-animation/) · [article](https://adelmerad.github.io/blog-race-condition.html) (JavaScript)
 - [**Printer Allocation Monitor**](https://github.com/adelmerad/printer-allocation-monitor) — Interactive simulator of a synchronization monitor, with step-by-step animation and starvation detection — [live](https://adelmerad.github.io/printer-allocation-monitor/) (JavaScript, Canvas)
 - [**El-Tarf Land Cover**](https://github.com/adelmerad/el-tarf-land-cover) — Land cover classification from Sentinel-2 imagery, based on my internship at ASAL (Google Earth Engine)
 - [**Software Project Planning**](https://github.com/adelmerad/software-project-planning) — Full schedule of a software project: WBS, dependencies, resources, critical path and a generated Gantt chart (Microsoft Project)
 
 ## 🛠️ Other Projects
 
-- [**SheCare**](https://github.com/adelmerad/shecare) — Companion app for women battling breast cancer — health tracking, journal, community, consultation booking, from Startup Weekend Algiers (Next.js, PostgreSQL, Prisma, Auth.js)
+- [**SheCare**](https://github.com/adelmerad/shecare) — Companion app for women battling breast cancer — health tracking, journal, community, consultation booking, from Startup Weekend Algiers — [article](https://adelmerad.github.io/blog-shecare-privacy.html) (Next.js, PostgreSQL, Prisma, Auth.js)
 - [**ShopWebApp**](https://github.com/adelmerad/ShopWebApp) — Backend-for-Frontend client of the ShopAuth SSO: PKCE sign-in, server-side tokens, roles. Team project, internship @ Mobilis (ASP.NET Core, EF Core, SQL Server)
 - [**Pagination**](https://github.com/adelmerad/Pagination) — Pagination study with a demo: cursor-paginated mission log for Rifters, an AR game concept about Algerian history (team project, frontend) (Django REST, React, React Query)
 - [**SMS Spam Detector**](https://github.com/adelmerad/SMS-Spam-Detector) — Spam classifier comparing Logistic Regression and Naive Bayes (98% test accuracy; team project) (Python, scikit-learn, NLTK)
