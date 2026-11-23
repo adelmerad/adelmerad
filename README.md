@@ -32,20 +32,20 @@ I'm **Adel Merad**, a full-stack developer and Software Engineering Master's stu
 
 ## ✍️ Latest Articles
 
+- [**Seven printers out of five: the bug in my monitor simulator**](https://adelmerad.github.io/blog-printer-monitor.html) — a synchronization monitor that counted free printers but not who held them, and two kinds of starvation in the same rules
 - [**One page, three languages: a trilingual site without a framework**](https://adelmerad.github.io/blog-three-languages.html) — English, French and Arabic with one CSS rule, right-to-left layout, the bidirectional text traps, and what this approach costs
 - [**The bug my thread animation never showed**](https://adelmerad.github.io/blog-race-condition.html) — a real race condition in C: two threads, one counter, up to 43% lost updates, and what a lock really costs
 - [**When "she has an account" is health data**](https://adelmerad.github.io/blog-shecare-privacy.html) — privacy in a breast cancer companion app: login timing, sessions that outlive a password change, and a data export that contained other people
 - [**Who chooses the user_id? Giving tools to an AI assistant safely**](https://adelmerad.github.io/blog-ai-tools.html) — tool calling with Gemini in a hackathon port system, prompt injection, and why identity must come from the session
-- [**Inside a video encoder: DCT, motion vectors and a one-word bug**](https://adelmerad.github.io/blog-video-encoder.html) — a simplified MPEG-4 pipeline, and how floor vs round cost half the compression
 
-➡️ **[All 13 articles on my blog](https://adelmerad.github.io/blog.html)**
+➡️ **[All 14 articles on my blog](https://adelmerad.github.io/blog.html)**
 
 ## 🧠 Computer Science & Data
 
 - [**compilateur-minialgo**](https://github.com/adelmerad/compilateur-minialgo) — Compiler for the MiniAlgo language — quadruples, 5 optimization passes, 8086 assembly backend — [article](https://adelmerad.github.io/blog-compiler.html) (C, Flex, Bison)
 - [**mpeg4-encoder-pipeline**](https://github.com/adelmerad/mpeg4-encoder-pipeline) — MPEG-4-style video encoder/decoder — DCT I-frames, motion-compensated P-frames — [article](https://adelmerad.github.io/blog-video-encoder.html) (Python)
 - [**Threads and Semaphores Visualizer**](https://github.com/adelmerad/thread-animation) — Step-by-step animation of POSIX threads and semaphores, with a beginner's guide — [live](https://adelmerad.github.io/thread-animation/) · [article](https://adelmerad.github.io/blog-race-condition.html) (JavaScript)
-- [**Printer Allocation Monitor**](https://github.com/adelmerad/printer-allocation-monitor) — Interactive simulator of a synchronization monitor, with step-by-step animation and starvation detection — [live](https://adelmerad.github.io/printer-allocation-monitor/) (JavaScript, Canvas)
+- [**Printer Allocation Monitor**](https://github.com/adelmerad/printer-allocation-monitor) — Interactive simulator of a synchronization monitor, with step-by-step animation and starvation detection — [live](https://adelmerad.github.io/printer-allocation-monitor/) · [article](https://adelmerad.github.io/blog-printer-monitor.html) (JavaScript, Canvas)
 - [**El-Tarf Land Cover**](https://github.com/adelmerad/el-tarf-land-cover) — Land cover classification from Sentinel-2 imagery, based on my internship at ASAL (Google Earth Engine)
 - [**Software Project Planning**](https://github.com/adelmerad/software-project-planning) — Full schedule of a software project: WBS, dependencies, resources, critical path and a generated Gantt chart (Microsoft Project)
 
