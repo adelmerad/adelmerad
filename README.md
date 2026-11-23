@@ -32,13 +32,13 @@ I'm **Adel Merad**, a full-stack developer and Software Engineering Master's stu
 
 ## ✍️ Latest Articles
 
+- [**Why the last page is slow: cursor pagination in practice**](https://adelmerad.github.io/blog-pagination.html) — OFFSET vs cursor on a million rows, the row that appears twice, what a Django REST cursor contains, and React Query's useInfiniteQuery
 - [**Seven printers out of five: the bug in my monitor simulator**](https://adelmerad.github.io/blog-printer-monitor.html) — a synchronization monitor that counted free printers but not who held them, and two kinds of starvation in the same rules
 - [**One page, three languages: a trilingual site without a framework**](https://adelmerad.github.io/blog-three-languages.html) — English, French and Arabic with one CSS rule, right-to-left layout, the bidirectional text traps, and what this approach costs
 - [**The bug my thread animation never showed**](https://adelmerad.github.io/blog-race-condition.html) — a real race condition in C: two threads, one counter, up to 43% lost updates, and what a lock really costs
 - [**When "she has an account" is health data**](https://adelmerad.github.io/blog-shecare-privacy.html) — privacy in a breast cancer companion app: login timing, sessions that outlive a password change, and a data export that contained other people
-- [**Who chooses the user_id? Giving tools to an AI assistant safely**](https://adelmerad.github.io/blog-ai-tools.html) — tool calling with Gemini in a hackathon port system, prompt injection, and why identity must come from the session
 
-➡️ **[All 14 articles on my blog](https://adelmerad.github.io/blog.html)**
+➡️ **[All 15 articles on my blog](https://adelmerad.github.io/blog.html)**
 
 ## 🧠 Computer Science & Data
 
@@ -53,7 +53,7 @@ I'm **Adel Merad**, a full-stack developer and Software Engineering Master's stu
 
 - [**SheCare**](https://github.com/adelmerad/shecare) — Companion app for women battling breast cancer — health tracking, journal, community, consultation booking, from Startup Weekend Algiers — [article](https://adelmerad.github.io/blog-shecare-privacy.html) (Next.js, PostgreSQL, Prisma, Auth.js)
 - [**ShopWebApp**](https://github.com/adelmerad/ShopWebApp) — Backend-for-Frontend client of the ShopAuth SSO: PKCE sign-in, server-side tokens, roles. Team project, internship @ Mobilis (ASP.NET Core, EF Core, SQL Server)
-- [**Pagination**](https://github.com/adelmerad/Pagination) — Pagination study with a demo: cursor-paginated mission log for Rifters, an AR game concept about Algerian history (team project, frontend) (Django REST, React, React Query)
+- [**Pagination**](https://github.com/adelmerad/Pagination) — Pagination study with a demo: cursor-paginated mission log for Rifters, an AR game concept about Algerian history (team project, frontend) — [article](https://adelmerad.github.io/blog-pagination.html) (Django REST, React, React Query)
 - [**SMS Spam Detector**](https://github.com/adelmerad/SMS-Spam-Detector) — Spam classifier comparing Logistic Regression and Naive Bayes (98% test accuracy; team project) (Python, scikit-learn, NLTK)
 
 ## 🧰 Languages and Tools
