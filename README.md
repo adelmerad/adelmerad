@@ -32,13 +32,13 @@ I'm **Adel Merad**, a full-stack developer and Software Engineering Master's stu
 
 ## ✍️ Latest Articles
 
+- [**One page, three languages: a trilingual site without a framework**](https://adelmerad.github.io/blog-three-languages.html) — English, French and Arabic with one CSS rule, right-to-left layout, the bidirectional text traps, and what this approach costs
 - [**The bug my thread animation never showed**](https://adelmerad.github.io/blog-race-condition.html) — a real race condition in C: two threads, one counter, up to 43% lost updates, and what a lock really costs
 - [**When "she has an account" is health data**](https://adelmerad.github.io/blog-shecare-privacy.html) — privacy in a breast cancer companion app: login timing, sessions that outlive a password change, and a data export that contained other people
 - [**Who chooses the user_id? Giving tools to an AI assistant safely**](https://adelmerad.github.io/blog-ai-tools.html) — tool calling with Gemini in a hackathon port system, prompt injection, and why identity must come from the session
 - [**Inside a video encoder: DCT, motion vectors and a one-word bug**](https://adelmerad.github.io/blog-video-encoder.html) — a simplified MPEG-4 pipeline, and how floor vs round cost half the compression
-- [**A garden that grows with your health, and the date bugs hiding in it**](https://adelmerad.github.io/blog-diab.html) — offline-first React Native with Zustand, Expo on the web, and five bugs about what "today" means
 
-➡️ **[All 12 articles on my blog](https://adelmerad.github.io/blog.html)**
+➡️ **[All 13 articles on my blog](https://adelmerad.github.io/blog.html)**
 
 ## 🧠 Computer Science & Data
 
