@@ -32,13 +32,13 @@ I'm **Adel Merad**, a full-stack developer and Software Engineering Master's stu
 
 ## ✍️ Latest Articles
 
+- [**The demo said spam: three bugs in a 98% accurate classifier**](https://adelmerad.github.io/blog-sms-spam.html) — predictions that skipped the preprocessing, a ROC AUC computed on labels, a balancing step that changed nothing, and whether Naive Bayes really wins
 - [**260 days of slack is a bug: recomputing my MS Project plan**](https://adelmerad.github.io/blog-project-planning.html) — the critical path recomputed in Python, and three problems the tool let through: a missing link, a team at 300%, and a calendar without the religious holidays
 - [**Why the last page is slow: cursor pagination in practice**](https://adelmerad.github.io/blog-pagination.html) — OFFSET vs cursor on a million rows, the row that appears twice, what a Django REST cursor contains, and React Query's useInfiniteQuery
 - [**Seven printers out of five: the bug in my monitor simulator**](https://adelmerad.github.io/blog-printer-monitor.html) — a synchronization monitor that counted free printers but not who held them, and two kinds of starvation in the same rules
-- [**One page, three languages: a trilingual site without a framework**](https://adelmerad.github.io/blog-three-languages.html) — English, French and Arabic with one CSS rule, right-to-left layout, the bidirectional text traps, and what this approach costs
 - [**The bug my thread animation never showed**](https://adelmerad.github.io/blog-race-condition.html) — a real race condition in C: two threads, one counter, up to 43% lost updates, and what a lock really costs
 
-➡️ **[All 16 articles on my blog](https://adelmerad.github.io/blog.html)**
+➡️ **[All 17 articles on my blog](https://adelmerad.github.io/blog.html)**
 
 ## 🧠 Computer Science & Data
 
@@ -54,7 +54,7 @@ I'm **Adel Merad**, a full-stack developer and Software Engineering Master's stu
 - [**SheCare**](https://github.com/adelmerad/shecare) — Companion app for women battling breast cancer — health tracking, journal, community, consultation booking, from Startup Weekend Algiers — [article](https://adelmerad.github.io/blog-shecare-privacy.html) (Next.js, PostgreSQL, Prisma, Auth.js)
 - [**ShopWebApp**](https://github.com/adelmerad/ShopWebApp) — Backend-for-Frontend client of the ShopAuth SSO: PKCE sign-in, server-side tokens, roles. Team project, internship @ Mobilis (ASP.NET Core, EF Core, SQL Server)
 - [**Pagination**](https://github.com/adelmerad/Pagination) — Pagination study with a demo: cursor-paginated mission log for Rifters, an AR game concept about Algerian history (team project, frontend) — [article](https://adelmerad.github.io/blog-pagination.html) (Django REST, React, React Query)
-- [**SMS Spam Detector**](https://github.com/adelmerad/SMS-Spam-Detector) — Spam classifier comparing Logistic Regression and Naive Bayes (98% test accuracy; team project) (Python, scikit-learn, NLTK)
+- [**SMS Spam Detector**](https://github.com/adelmerad/SMS-Spam-Detector) — Spam classifier comparing Logistic Regression and Naive Bayes (98% test accuracy; team project) — [article](https://adelmerad.github.io/blog-sms-spam.html) (Python, scikit-learn, NLTK)
 
 ## 🧰 Languages and Tools
 
