@@ -32,13 +32,13 @@ I'm **Adel Merad**, a full-stack developer and Software Engineering Master's stu
 
 ## ✍️ Latest Articles
 
+- [**260 days of slack is a bug: recomputing my MS Project plan**](https://adelmerad.github.io/blog-project-planning.html) — the critical path recomputed in Python, and three problems the tool let through: a missing link, a team at 300%, and a calendar without the religious holidays
 - [**Why the last page is slow: cursor pagination in practice**](https://adelmerad.github.io/blog-pagination.html) — OFFSET vs cursor on a million rows, the row that appears twice, what a Django REST cursor contains, and React Query's useInfiniteQuery
 - [**Seven printers out of five: the bug in my monitor simulator**](https://adelmerad.github.io/blog-printer-monitor.html) — a synchronization monitor that counted free printers but not who held them, and two kinds of starvation in the same rules
 - [**One page, three languages: a trilingual site without a framework**](https://adelmerad.github.io/blog-three-languages.html) — English, French and Arabic with one CSS rule, right-to-left layout, the bidirectional text traps, and what this approach costs
 - [**The bug my thread animation never showed**](https://adelmerad.github.io/blog-race-condition.html) — a real race condition in C: two threads, one counter, up to 43% lost updates, and what a lock really costs
-- [**When "she has an account" is health data**](https://adelmerad.github.io/blog-shecare-privacy.html) — privacy in a breast cancer companion app: login timing, sessions that outlive a password change, and a data export that contained other people
 
-➡️ **[All 15 articles on my blog](https://adelmerad.github.io/blog.html)**
+➡️ **[All 16 articles on my blog](https://adelmerad.github.io/blog.html)**
 
 ## 🧠 Computer Science & Data
 
@@ -47,7 +47,7 @@ I'm **Adel Merad**, a full-stack developer and Software Engineering Master's stu
 - [**Threads and Semaphores Visualizer**](https://github.com/adelmerad/thread-animation) — Step-by-step animation of POSIX threads and semaphores, with a beginner's guide — [live](https://adelmerad.github.io/thread-animation/) · [article](https://adelmerad.github.io/blog-race-condition.html) (JavaScript)
 - [**Printer Allocation Monitor**](https://github.com/adelmerad/printer-allocation-monitor) — Interactive simulator of a synchronization monitor, with step-by-step animation and starvation detection — [live](https://adelmerad.github.io/printer-allocation-monitor/) · [article](https://adelmerad.github.io/blog-printer-monitor.html) (JavaScript, Canvas)
 - [**El-Tarf Land Cover**](https://github.com/adelmerad/el-tarf-land-cover) — Land cover classification from Sentinel-2 imagery, based on my internship at ASAL (Google Earth Engine)
-- [**Software Project Planning**](https://github.com/adelmerad/software-project-planning) — Full schedule of a software project: WBS, dependencies, resources, critical path and a generated Gantt chart (Microsoft Project)
+- [**Software Project Planning**](https://github.com/adelmerad/software-project-planning) — Full schedule of a software project: WBS, dependencies, resources, critical path and a generated Gantt chart — [article](https://adelmerad.github.io/blog-project-planning.html) (Microsoft Project)
 
 ## 🛠️ Other Projects
 
